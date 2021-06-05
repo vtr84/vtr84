@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @vtr84
-- 🌱 I’m currently learning to code
+- 🌱 I’m currently learning WebDev @ Wild Code School

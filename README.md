@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @vtr84
-- 🌱 I’m currently learning WebDev @ Wild Code School
+ 👋  Hi, I’m @vtr84
+ 🌱  I’m currently learning WebDev @ Wild Code School
 
-- Check my progress :) 
+ Check my progress :) 
 
-🧮 Simple Calculator - https://vtr84.github.io/simple-calculator/
+🧮  Simple Calculator - https://vtr84.github.io/simple-calculator/
 
-🎰 Random Picker - https://vtr84.github.io/random-picker/
+🎰  Random Picker - https://vtr84.github.io/random-picker/
 

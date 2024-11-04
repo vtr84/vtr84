@@ -21,10 +21,7 @@
 ![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python)![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=flat-square&logo=typescript)![Redis](https://img.shields.io/badge/-Redis-181717?style=flat-square&logo=Redis)![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-181717?style=flat-square&logo=elasticsearch)![GraphQL](https://img.shields.io/badge/-GraphQL-181717?style=flat-square&logo=graphql)![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-181717?style=flat-square&logo=digitalocean)![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-181717?style=flat-square&logo=microsoft-azure)![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab)![BitBucket](https://img.shields.io/badge/-BitBucket-181717?style=flat-square&logo=bitbucket)
 
 ## 📊 Stats
-[![Codewars](https://www.codewars.com/users/vtr84/badges/large)](https://www.codewars.com/users/vtr84/)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=vtr84&count_private=true&show_icons=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtr84&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vtr84)
+![vtr84's Stats](https://github-readme-stats.vercel.app/api?username=vtr84&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![vtr84's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vtr84&theme=vue-dark&hide_border=true)
+![vtr84's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vtr84&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
